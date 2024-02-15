@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    margin-top: 100px;
+    background-color: rgb(195, 244, 127);
+    height: 2px;
+}
+h1{
+    color: rgb(30, 40, 236);
+    margin-bottom: 60px;
+}
